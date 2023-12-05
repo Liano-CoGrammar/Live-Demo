@@ -1,2 +1,2 @@
 # Live-Demo
-A demo repository.
+* A demo repository.
